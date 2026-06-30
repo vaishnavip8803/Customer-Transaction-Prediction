@@ -1,21 +1,21 @@
-# Customer-Transaction-Prediction
+# ***Customer-Transaction-Prediction***
 
-# **Project Description**
+# Project Description
 
 This project predicts whether a customer will make a future transaction using Machine Learning.
 The main goal is to help banks identify potential customers and improve marketing strategies by making accurate predictions.
 
 # **Project Objective**
-Predict customer transactions.
-Compare different Machine Learning models.
-Select the best-performing model.
-Evaluate the model using different performance metrics.
+1) Predict customer transactions.
+2) Compare different Machine Learning models.
+3) Select the best-performing model.
+4) Evaluate the model using different performance metrics.
 
 # **Technologies Used**
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+1) Python
+2) Jupyter Notebook
+3) Pandas
+4) NumPy
+5) Matplotlib
+6) Seaborn
+7) Scikit-learn
